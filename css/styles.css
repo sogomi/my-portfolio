@@ -1,4 +1,4 @@
-h1 {text-align: center; color: red;}
+ h1  {text-align: center; color: red;}
 .section3   {
     text-align: center;
     color: white;
@@ -6,13 +6,13 @@ h1 {text-align: center; color: red;}
 .container {
     display: flex;
     justify-content: center;
-    width: 100%;
-    margin: 0;
-    padding: 0;}
+    width: 105%;
+    margin: 5;
+    padding: 5;}
 .column{
-    margin: 10px;
+    margin: 20px;
     width: 20%;
-    border: 3px solid white;
+    border: 3px solid white
 }
 .column2{
     margin: 40px;
@@ -23,4 +23,4 @@ h1 {text-align: center; color: red;}
 img {
     margin-left: 30px;
 }
-body {background-color: sienna;}
+body {background-color: maroon;}
